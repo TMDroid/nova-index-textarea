@@ -1,5 +1,5 @@
 {
-    "name": "dillingham/nova-index-textarea",
+    "name": "tmdroid/nova-index-textarea",
     "description": "Extends Nova textarea for index view",
     "keywords": [
         "laravel",
